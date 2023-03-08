@@ -1,6 +1,6 @@
 ### Space Ship Survival Game
-This is a simple game implemented in Python with pygame. 
+This is a straightforward game implemented in Python using pygame. The objective of the game is to navigate the spaceship around and evade incoming rocks by pressing the corresponding keys on the keyboard.
+
 
 ### How to run the game
-In order to run the game, all the files are required to be downloaded, including picture, sound, etc. 
-The spalce ship needs to avoid rocks to get rid of attack by moving around itself. When playing the game, the players need to move the spaceship by pressing cursor keys, which include the up, down, left and right arrow, home, end, pageUp and pageDown keys
+To run the game, all files including pictures, sounds, and other necessary assets must be downloaded. During gameplay, the spaceship must dodge incoming rocks by maneuvering around them. Players can control the spaceship's movement using the cursor keys, which include the up, down, left, right, home, end, page up, and page down keys.
