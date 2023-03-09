@@ -1,4 +1,7 @@
 ### Space Ship Survival Game
+
+![spaceship](https://user-images.githubusercontent.com/70967683/223880822-0f06397a-69c7-4b17-b276-aacf254cd526.jpg)
+
 This is a straightforward game implemented in Python using pygame. The objective of the game is to navigate the spaceship around and evade incoming rocks by pressing the corresponding keys on the keyboard.
 
 
