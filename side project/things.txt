@@ -1,3 +1,0 @@
-divided condition as feature
-
-how to determine if something can be considered as a feature
