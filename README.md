@@ -9,4 +9,4 @@ To run the game, all files including pictures, sounds, and other necessary asset
 
 ### Game Interface
 
-![spaceship](https://user-images.githubusercontent.com/70967683/224034366-db92358b-1259-431f-bc9e-3db10d6daea2.jpg)
+![spaceship](https://user-images.githubusercontent.com/70967683/224038125-627ac9fe-53c3-4210-a8cd-f4743935bce9.jpg)
