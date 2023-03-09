@@ -4,11 +4,7 @@ This game is implemented in Python using Pygame and is easy to play. The objecti
 
 
 ### How to run the game
-To run the game, all files including pictures, sounds, and other necessary assets must be downloaded. 
-Run main file after downloading
-Press any key to start the game
-During gameplay, the spaceship must dodge incoming rocks by maneuvering around them. Players can control the spaceship's movement using the cursor keys, which include the left, right arrow keys. 
-The spacecraft can shoot by pressing any key.
+To play the game, ensure that all necessary files including pictures, sounds, and assets are downloaded. After downloading, run the main file and press any key to start the game. During gameplay, players must navigate the spaceship to avoid incoming rocks by maneuvering around them. The spaceship can be controlled using the left and right arrow keys on the keyboard. And players can shoot by pressing any key. As the game progresses, players can collect stars to increase their firepower and gain more bullets.
 
 
 ### Game Interface
